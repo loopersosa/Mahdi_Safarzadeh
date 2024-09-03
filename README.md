@@ -62,6 +62,7 @@ Mountain climbing and rock climbing are my main weekend hobbies which I rarely s
   <img src="assets/img/4.jpg" alt="Tochal peak view over Tehran" width="150"/>
   <img src="assets/img/5.jpg" alt="Azad-Kuh lake" width="150"/>
   <img src="assets/img/7.jpg" alt="Kahar peak returning (winter hike with so many difficulties)" width="150"/>
+  <img src="assets/img/8.jpg" alt="me in Kahar peak" width="150"/>
 </div>
 
 ### Exercising
