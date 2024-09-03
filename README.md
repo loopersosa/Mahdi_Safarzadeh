@@ -1,3 +1,8 @@
+## Contact Information
+
+- [GitHub](https://github.com/loopersosa)
+- [Email](mailto:safarzadehmahdi33@gmail.com)
+
 ## Summary
 Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in drug discovery and protein engineering. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
 
