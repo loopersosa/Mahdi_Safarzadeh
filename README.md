@@ -34,11 +34,11 @@ world data and assessing the results.
 
 ## Relate Projects
 ### AI-driven Drug Discovery and Protein Structure Prediction
-Developed AI models using **Python** to predict protein structures and design antibodies targeting specific antigens. These models enhanced drug discovery efforts by automating the identification of potential therapeutic candidates and improving accuracy.
+Developed AI models using Python to **predict protein structures** and design antibodies targeting specific antigens. These models enhanced drug discovery efforts by automating the identification of potential therapeutic candidates and improving accuracy.
 ### Chat-bot
-Created an attention-based chatbot that analyzed personal Telegram chat histories to understand and mimic the individual's communication style.
+Created an **attention-based model** chatbot that analyzed personal Telegram chat histories to understand and mimic the individual's communication style.
 ### Image denoising with graphical models 
-Binary Image Denoising using Variational Inference Implemented a binary image denoising algorithm using mean-field variational inference on an Ising model. This project involved reconstructing noisy binary images by approximating complex probability distributions, showcasing the effectiveness of Bayesian inference for image processing tasks.
+Binary Image Denoising using Variational Inference Implemented a binary image denoising algorithm using mean-field variational inference on an Ising model. This project involved reconstructing noisy binary images by approximating complex probability distributions, showcasing the effectiveness of **Bayesian inference** for image processing tasks.
 
 ## RELEVANT CERTIFICATES
 Machine Learning - Stanford Online 
