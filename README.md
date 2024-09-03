@@ -50,7 +50,7 @@ Communication Skills
 
 ## Extra-curriculum activities 
 ### hiking
-Mountain climbing and rock climbing are my main weekend hobbies which I rarely skip.
+Mountain climbing and rock climbing are my main weekend hobbies which I rarely skip. I was able to stand on the first, second, and third highest peaks of Iran, namely Damavand(5610m), Alam-Kuh(4860m), and Sabalan(4810m)
 ### Exercising
 I go to the gym 3 times a week as well as running twice a week.
 
