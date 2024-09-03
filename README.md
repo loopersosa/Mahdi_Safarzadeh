@@ -69,3 +69,11 @@ Mountain climbing and rock climbing are my main weekend hobbies which I rarely s
 ### Exercising
 I go to the gym 3 times a week as well as running twice a week.
 
+
+### Violinist
+Played violin for over 5 years. Actively participated in a band, contributing to diverse musical projects and performances. Performed at numerous events, including local concerts, demonstrating proficiency in classical, contemporary, and collaborative music. Developed skills in teamwork, stage presence, and musical interpretation through regular rehearsals and public performances.
+
+<div style="display: flex;">
+  <img src="assets/img/9.jpg" alt="Tochal peak view over Tehran" width="150"/>
+  <img src="assets/img/10.jpg" alt="Azad-Kuh lake" width="150"/>
+</div>
