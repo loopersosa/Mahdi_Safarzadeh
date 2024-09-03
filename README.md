@@ -1,12 +1,4 @@
 
-## Connect with Me
-<div class="social-icons">
-  <a href="{{ site.github }}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-  <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> Email</a>
-  <a href="{{ site.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-  <a href="{{ site.telegram }}" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
-</div>
-
 ## Summary
 Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in drug discovery and protein engineering. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
 
