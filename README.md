@@ -1,7 +1,5 @@
-![Mahdi Safarzadeh](/assets/img/profile.jfif)
 
 ## Connect with Me
-
 <div class="social-icons">
   <a href="{{ site.github }}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
   <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> Email</a>
