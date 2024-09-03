@@ -7,11 +7,10 @@ Passionate and driven Electrical and Computer Engineer with a strong focus on le
 AI-driven Drug Discovery, Protein Structure Prediction, Bio-informatics, Diffusion Models, AI-based Protein Engineering.
 
 ## Research Experience
-**Diffusion models in Bio-informatics  @ [Prof. Chehreghani lab]
+### Diffusion models in Bio-informatics  @ [Prof. Chehreghani lab]
 - Focused on AI-driven drug discovery by leveraging protein structure prediction and bioinformatics.
 - Developed diffusion-based generative models to optimize antigen-specific antibodies.
-
-**Network Research Intern  @ [Ario-tech company]
+### Network Research Intern  @ [Ario-tech company]
 - Reading papers and searching for novel schemes of Simulating 
 Real-World Scenarios.
 - Testing Apps and Apps, developed on real
@@ -25,9 +24,9 @@ world data and assessing the results.
 ## Relate Projects
 ### AI-driven Drug Discovery and Protein Structure Prediction
 Developed AI models using **Python** to predict protein structures and design antibodies targeting specific antigens. These models enhanced drug discovery efforts by automating the identification of potential therapeutic candidates and improving accuracy.
-## Chat-bot
+### Chat-bot
 Created an attention-based chatbot that analyzed personal Telegram chat histories to understand and mimic the individual's communication style.
-## Image denoising with graphical models 
+### Image denoising with graphical models 
 Binary Image Denoising using Variational Inference Implemented a binary image denoising algorithm using mean-field variational inference on an Ising model. This project involved reconstructing noisy binary images by approximating complex probability distributions, showcasing the effectiveness of Bayesian inference for image processing tasks.
 
 ## RELEVANT CERTIFICATES
