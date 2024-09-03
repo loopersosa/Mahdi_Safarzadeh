@@ -52,13 +52,15 @@ Communication Skills
 ### hiking
 Mountain climbing and rock climbing are my main weekend hobbies which I rarely skip. I was able to stand on the first, second, and third highest peaks of Iran, namely Damavand(5610m), Alam-Kuh(4860m), and Sabalan(4810m).
 
-<img src="assets/img/1.jpg" alt="Beutiful site of Latoon vilage" width="150"/>
-<img src="assets/img/2.jpg" alt="Alam-Kuh lake (middle of summer)" width="150"/>
-<img src="assets/img/3.jpg" alt="Narengbon river" width="150"/>
-<img src="assets/img/4.jpg" alt="Tochal peak view over Tehran" width="150"/>
-<img src="assets/img/5.jpg" alt="Azad-Kuh lake" width="150"/>
-<img src="assets/img/6.jpg" alt="Rock climbing in Azgi cite" width="150"/>
-<img src="assets/img/7.jpg" alt="Kahar peak returning (winter hike with so many difficulties)" width="150"/>
+<div style="display: flex;">
+  <img src="assets/img/1.jpg" alt="Beautiful site of Latoon village" width="150"/>
+  <img src="assets/img/2.jpg" alt="Alam-Kuh lake (middle of summer)" width="150"/>
+  <img src="assets/img/3.jpg" alt="Narengbon river" width="150"/>
+  <img src="assets/img/4.jpg" alt="Tochal peak view over Tehran" width="150"/>
+  <img src="assets/img/5.jpg" alt="Azad-Kuh lake" width="150"/>
+  <img src="assets/img/6.jpg" alt="Rock climbing in Azgi site" width="150"/>
+  <img src="assets/img/7.jpg" alt="Kahar peak returning (winter hike with so many difficulties)" width="150"/>
+</div>
 
 ### Exercising
 I go to the gym 3 times a week as well as running twice a week.
