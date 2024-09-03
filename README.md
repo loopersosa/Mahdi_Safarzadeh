@@ -12,6 +12,7 @@ AI-driven Drug Discovery, Protein Structure Prediction, Bio-informatics, Diffusi
 ### Diffusion models in Bio-informatics  @ [Prof. Chehreghani lab]
 - Focused on AI-driven drug discovery by leveraging protein structure prediction and bioinformatics.
 - Developed diffusion-based generative models to optimize antigen-specific antibodies.
+
 ### Network Research Intern  @ [Ario-tech company]
 - Reading papers and searching for novel schemes of Simulating 
 Real-World Scenarios.
