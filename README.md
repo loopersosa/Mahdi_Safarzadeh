@@ -1,12 +1,17 @@
 
 ## Summary
-Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in drug discovery and protein engineering. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
+Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in **drug discovery** and **protein engineering using generative models**. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
 
-##### Technical Skills: Diffusion Models, Generative Models, AI-based Protein Engineering, Protein design, Machine Learning, Deep Learning, Python, MATLAB
+### Technical Skills:
+
+- Machine Learning & Deep Learning: Proficient in developing and applying models for various tasks, including diffusion models and generative models.
+- AI-based Protein Engineering: Experience in utilizing AI for protein design and engineering.
+- Programming Languages: Python, MATLAB
+- Specialized Skills: Protein design, Diffusion Models, Generative Models
 
 
 ### Research interests 
-AI-driven Drug Discovery, Protein Structure Prediction, Bio-informatics, Diffusion Models, AI-based Protein Engineering.
+AI-driven Drug Discovery, Protein Structure Prediction, Diffusion Models, Bio-informatics, AI-based Protein Engineering.
 
 
 ## Research Experience
