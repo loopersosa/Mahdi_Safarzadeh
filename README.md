@@ -1,5 +1,7 @@
 # Electrical and Computer Engineer
 
+![Profile Picture](images/profile.jpg)
+
 #### Technical Skills: Python, MATLAB, AI-based Protein Engineering, Machine Learning, Diffusion Models, Bioinformatics
 
 ## Education
