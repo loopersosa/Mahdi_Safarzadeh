@@ -51,13 +51,13 @@ Communication Skills
 ## Extra-curriculum activities 
 ### hiking
 Mountain climbing and rock climbing are my main weekend hobbies which I rarely skip. I was able to stand on the first, second, and third highest peaks of Iran, namely Damavand(5610m), Alam-Kuh(4860m), and Sabalan(4810m)
-<img src="images/1.jpg" alt="Profile Picture" width="200"/>
-<img src="images/2.jpg" alt="Profile Picture" width="200"/>
-<img src="images/3.jpg" alt="Profile Picture" width="200"/>
-<img src="images/4.jpg" alt="Profile Picture" width="200"/>
-<img src="images/5.jpg" alt="Profile Picture" width="200"/>
-<img src="images/6.jpg" alt="Profile Picture" width="200"/>
-<img src="images/7.jpg" alt="Profile Picture" width="200"/>
+<img src="assets/img/1.jpg" alt="Profile Picture" width="200"/>
+<img src="assets/img/2.jpg" alt="Profile Picture" width="200"/>
+<img src="assets/img/3.jpg" alt="Profile Picture" width="200"/>
+<img src="assets/img/4.jpg" alt="Profile Picture" width="200"/>
+<img src="assets/img/5.jpg" alt="Profile Picture" width="200"/>
+<img src="assets/img/6.jpg" alt="Profile Picture" width="200"/>
+<img src="assets/img/7.jpg" alt="Profile Picture" width="200"/>
 
 ### Exercising
 I go to the gym 3 times a week as well as running twice a week.
