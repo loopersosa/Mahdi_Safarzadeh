@@ -1,10 +1,12 @@
 ## Summary
 Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in drug discovery and protein engineering. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
 
-#### Technical Skills: Diffusion Models, Generative Models, AI-based Protein Engineering, Protein design, Machine Learning, Deep Learning, Python, MATLAB
+##### Technical Skills: Diffusion Models, Generative Models, AI-based Protein Engineering, Protein design, Machine Learning, Deep Learning, Python, MATLAB
 
-## Research interests 
+
+### Research interests 
 AI-driven Drug Discovery, Protein Structure Prediction, Bio-informatics, Diffusion Models, AI-based Protein Engineering.
+
 
 ## Research Experience
 ### Diffusion models in Bio-informatics  @ [Prof. Chehreghani lab]
@@ -16,10 +18,12 @@ Real-World Scenarios.
 - Testing Apps and Apps, developed on real
 world data and assessing the results. 
 
+
 ## Education
 - B.Sc., Electrical Engineering (Major) - Telecommunication Systems | Amirkabir University of Technology (_Jan 2020 — Dec 2024_)
 - Minor in Computer Engineering - Artificial Intelligence | Amirkabir University of Technology
 - High school, National Organization for Development of  distinguished Students (Dr. Moein) (_Sep 2017 — Jul 2020_) 
+
 
 ## Relate Projects
 ### AI-driven Drug Discovery and Protein Structure Prediction
