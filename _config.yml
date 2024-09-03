@@ -1,11 +1,6 @@
 title: Mahdi Safarzadeh
 logo: /assets/img/profile.jfif
 theme: jekyll-theme-minimal
-sass:
-  sass_dir: _sass
-  style: compressed
-include:
-  - assets/css/style.css
 
 # Social links
 github: https://github.com/loopersosa
