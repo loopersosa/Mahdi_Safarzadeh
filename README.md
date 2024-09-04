@@ -50,11 +50,11 @@ Binary Image Denoising using Variational Inference Implemented a binary image de
 
 ## RELEVANT CERTIFICATES
 
-Machine Learning - Stanford Online 
-Deep Learning Specialization - DeepLearning.AI 
-Diffusion models - DeepLearning.AI
-Fine-tuning LLM for specific tasks - DeepLearning.AI
-Databases and MySQL for Data Science - Coursera
+- Machine Learning - Stanford Online 
+- Deep Learning Specialization - DeepLearning.AI 
+- Diffusion models - DeepLearning.AI
+- Fine-tuning LLM for specific tasks - DeepLearning.AI
+- Databases and MySQL for Data Science - Coursera
 
 ## Skills
 Ability to Work in a Team,          Leadership,
