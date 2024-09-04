@@ -1,4 +1,4 @@
-#### Connect with Me
+### Connect with Me
 <div class="social-icons">
   <a href="{{ site.github }}" target="https://github.com/loopersosa"><i class="fab fa-github"></i> GitHub</a>
   <a href="mailto:{{ mahdi.safararzadeh.k@gmail.com }}"><i class="fas fa-envelope"></i> Email</a>
