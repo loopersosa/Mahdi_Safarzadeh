@@ -52,6 +52,8 @@ Machine Learning - Stanford Online
 
 Deep Learning Specialization - DeepLearning.AI 
 
+Diffusion models - DeepLearning.AI
+
 Fine-tuning LLM for specific tasks - DeepLearning.AI
 
 Databases and MySQL for Data Science - Coursera
