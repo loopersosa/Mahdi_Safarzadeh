@@ -1,7 +1,7 @@
 ### Connect with Me
 <div class="social-icons">
   <a href="https://github.com/loopersosa"><i class="fab fa-github"></i> GitHub</a>
-  <a href="mailto:mahdi.safarzadeh.k@gmail.com"></i> Email</a>
+  <a href="mailto:mahdi.safarzadeh.k@gmail.com"> Email</a>
   <a href="https://www.linkedin.com/in/mahdi-safarzadeh-99b727211/"><i class="fab fa-linkedin"></i> LinkedIn</a>
   <a href="https://t.me/magatowski" ><i class="fab fa-telegram"></i> Telegram</a>
 </div>
