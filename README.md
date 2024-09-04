@@ -1,9 +1,9 @@
 ### Connect with Me
 <div class="social-icons">
-  <a href="{{ site.github }}" target="https://github.com/loopersosa"><i class="fab fa-github"></i> GitHub</a>
-  <a href="mailto:{{ mahdi.safararzadeh.k@gmail.com }}"><i class="fas fa-envelope"></i> Email</a>
-  <a href="{{ site.linkedin }}" target="https://www.linkedin.com/in/mahdi-safarzadeh-99b727211/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-  <a href="{{ site.telegram }}" target="t.me/magatowski"><i class="fab fa-telegram"></i> Telegram</a>
+  <a href="https://github.com/loopersosa"><i class="fab fa-github"></i> GitHub</a>
+  <a href="mailto:mahdi.safarzadeh.k@gmail.com"><i class="fas fa-envelope"></i> Email</a>
+  <a href="https://www.linkedin.com/in/mahdi-safarzadeh-99b727211/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+  <a href="t.me/magatowski" ><i class="fab fa-telegram"></i> Telegram</a>
 </div>
 
 ## Summary
