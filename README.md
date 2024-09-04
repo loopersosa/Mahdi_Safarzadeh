@@ -1,8 +1,8 @@
 <div class="social-icons">
-  <a href="{{ site.github }}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-  <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> Email</a>
-  <a href="{{ site.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-  <a href="{{ site.telegram }}" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
+  <a href="{{https://github.com/loopersosa}}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+  <a href="mailto:{{mahdi.safarzadeh.k@gmail.com}}"><i class="fas fa-envelope"></i> Email</a>
+  <a href="{{https://www.linkedin.com/in/mahdi-safarzadeh-99b727211/}}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+  <a href="{{https://t.me/magatowski}}" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
 </div>
 
 ## Summary
