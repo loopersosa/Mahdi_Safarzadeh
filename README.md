@@ -6,6 +6,7 @@
   <a href="https://t.me/magatowski" ><i class="fab fa-telegram"></i> Telegram</a>
 </div>
 
+
 ## Summary
 Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in **drug discovery** and **protein engineering using generative models**. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
 
@@ -48,14 +49,11 @@ Created an **attention-based model** chatbot that analyzed personal Telegram cha
 Binary Image Denoising using Variational Inference Implemented a binary image denoising algorithm using mean-field variational inference on an Ising model. This project involved reconstructing noisy binary images by approximating complex probability distributions, showcasing the effectiveness of **Bayesian inference** for image processing tasks.
 
 ## RELEVANT CERTIFICATES
+
 Machine Learning - Stanford Online 
-
 Deep Learning Specialization - DeepLearning.AI 
-
 Diffusion models - DeepLearning.AI
-
 Fine-tuning LLM for specific tasks - DeepLearning.AI
-
 Databases and MySQL for Data Science - Coursera
 
 ## Skills
