@@ -8,7 +8,7 @@
 
 
 ## Summary
-Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in **drug discovery** and **protein engineering using generative models**. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
+Passionate and driven Electrical and Computer Engineer with a strong focus on leveraging artificial intelligence in **drug discovery** and **protein engineering using generative models** and **Machine Learning for biomedical purposes**. Experienced in applying advanced AI techniques, including diffusion models, to bioinformatics for predicting and optimizing protein structures, skilled in developing innovative solutions to complex biological problems, with a commitment to advancing the field of AI-based protein engineering and bioinformatics.
 
 ### Technical Skills:
 
@@ -19,7 +19,7 @@ Passionate and driven Electrical and Computer Engineer with a strong focus on le
 
 
 ### Research interests 
-AI-driven Drug Discovery, Protein Structure Prediction, Diffusion Models, Bio-informatics, AI-based Protein Engineering.
+AI-driven Drug Discovery, Protein Structure Prediction, Diffusion Models, Bio-informatics, AI-based Protein Engineering, Medical Imaging.
 
 
 ## Research Experience
@@ -45,6 +45,10 @@ world data and assessing the results.
 Developed AI models using Python to **predict protein structures** and design antibodies targeting specific antigens. These models enhanced drug discovery efforts by automating the identification of potential therapeutic candidates and improving accuracy.
 ### Chat-bot
 Created an **attention-based model** chatbot that analyzed personal Telegram chat histories to understand and mimic the individual's communication style.
+### Image Captioning 
+Developed an image captioning model using LSTM, GRU along with attention on Flick8k, Flick30k, and MS COCO datasets. Handled a 70G dataset efficiently and reached to 52% accuracy on the train dataset with more than 500K images.
+### Breast Cancer detection
+Developed an image captioning model to detect cancer using breast histopathologic data and reached to F1 score of 90% on the validation data.
 ### Image denoising with graphical models 
 Binary Image Denoising using Variational Inference Implemented a binary image denoising algorithm using mean-field variational inference on an Ising model. This project involved reconstructing noisy binary images by approximating complex probability distributions, showcasing the effectiveness of **Bayesian inference** for image processing tasks.
 
